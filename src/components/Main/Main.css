@@ -1,0 +1,23 @@
+.main{
+    width: 100%;
+    background-color: white;
+    font-family: sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.col{
+    margin: 50px;
+}
+
+.col-in{
+    margin: 50px 0px;
+}
